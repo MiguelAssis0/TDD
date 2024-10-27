@@ -1,0 +1,14 @@
+D:\programming\bootcamp\TDD\scr\bin\Debug\net8.0\scr.exe
+D:\programming\bootcamp\TDD\scr\bin\Debug\net8.0\scr.deps.json
+D:\programming\bootcamp\TDD\scr\bin\Debug\net8.0\scr.runtimeconfig.json
+D:\programming\bootcamp\TDD\scr\bin\Debug\net8.0\scr.dll
+D:\programming\bootcamp\TDD\scr\bin\Debug\net8.0\scr.pdb
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\scr.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\scr.AssemblyInfoInputs.cache
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\scr.AssemblyInfo.cs
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\scr.csproj.CoreCompileInputs.cache
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\scr.dll
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\refint\scr.dll
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\scr.pdb
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\scr.genruntimeconfig.cache
+D:\programming\bootcamp\TDD\scr\obj\Debug\net8.0\ref\scr.dll
